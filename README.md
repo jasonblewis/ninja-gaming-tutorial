@@ -1,3 +1,6 @@
+# demo project from The Net Ninja Sveltkit tutorial
+(https://www.youtube.com/playlist?list=PL4cUxeGkcC9hpM9ARM59Ve3jqcb54dqiP)
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
@@ -30,6 +33,7 @@ npm run dev -- --open
 To create a production version of your app:
 
 ```bash
+
 npm run build
 ```
 
