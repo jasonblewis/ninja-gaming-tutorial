@@ -9,7 +9,8 @@
             <a href="/">Home</a>
             <a href="/about">About</a>
             <a href="/guides">Guides</a>
-            <a href="/invoce">Invoices</a>
+            <a href="/invoice">Invoices</a>
+
         </div> 
     </nav>
 </header>

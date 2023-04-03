@@ -1,5 +1,5 @@
 <script>
-    export let title = "Ninja Gaming"
+    export let title = "NetSuite Ninja"
 </script>
 <div class="title">
     <img src="/gaming-gamepad-icon.svg" alt="site logo" width="50">

@@ -1,4 +1,4 @@
-# demo project from The Net Ninja Sveltkit tutorial
+# demo project from The Net Ninja Sveltekit tutorial
 (https://www.youtube.com/playlist?list=PL4cUxeGkcC9hpM9ARM59Ve3jqcb54dqiP)
 
 # create-svelte
